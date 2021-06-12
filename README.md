@@ -34,6 +34,6 @@
 
 
 ### GitHub' Stats📈
-![Spidy20's github stats](https://github-readme-stats.vercel.app/api?username=kz2511&show_icons=true&theme=dark)
+![kz2511's github stats](https://github-readme-stats.vercel.app/api?username=kz2511&show_icons=true&theme=cobalt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kz2511&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kz2511&layout=compact&show_icons=true&theme=cobalt)](https://github.com/kz2511/github-readme-stats)
