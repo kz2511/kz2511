@@ -26,7 +26,9 @@
 - 🌱 I’m Pressently Learning Machine Learning 
 - ⚡ Fun fact: Machine learning is not going to destroy Humanity
 - 💬 Ask me about anything Machine Learning, Web Devlopment and Web Scrapping;
-- 
+- 📫 Reach out me: <a href="mailto:kunalzaveri11@gmail.com">
+      <img width="20px" src="Images/Gmail-Logo.wine.svg" />
+  </a>
 
 ## Languages
 
