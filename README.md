@@ -19,7 +19,7 @@
 </div>
 <br>
 <br>
-## 
+
 
 
 - 🔭 I’m a Information Technology Student, with tremdous passion for Machine Learning and Software Development 
