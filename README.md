@@ -53,8 +53,18 @@
 | Pycharm | Spyder | Google Colab | Jupyter Notebook | VSCode | Kaggle
 | :---: | :---: | :---: | :---: | :---: | :---: |
 
+&nbsp;
+&nbsp;
+&nbsp;
 
-### GitHub' Stats📈
-![kz2511's github stats](https://github-readme-stats.vercel.app/api?username=kz2511&show_icons=true&theme=cobalt)
+<h2>Github Stats 📈</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kz2511&layout=compact&show_icons=true&theme=cobalt)](https://github.com/kz2511/github-readme-stats)
+
+| ![Gaganpreet Kaur Kalsi GitHub Statistics](https://github-readme-stats.vercel.app/api?username=kz2511&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kz2511) |
+| --- | --- |
+| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kz2511&light&hide_border=true&line_height=27&width=20) | ![Gagan's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kz2511&layout=compact&langs_count=8&hide_border=true) | 
+
+<img src="https://activity-graph.herokuapp.com/graph?username=kz2511&theme=github" alt="GitHub Activity Graph" width="100%" />
+
+<br>
+<br>
