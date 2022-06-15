@@ -46,7 +46,7 @@
 | :---: |
 
 #### For Web Development & WebScraping
-| Flask | BS4|
+| Flask | BS4|Django|DRF|
 | :---: | :---: |
 
 #### IDEs that I am aware with 
