@@ -64,7 +64,6 @@
 | --- | --- |
 | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kz2511&light&hide_border=true&line_height=27&width=20) | ![Gagan's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kz2511&layout=compact&langs_count=8&hide_border=true) | 
 
-<img src="https://activity-graph.herokuapp.com/graph?username=kz2511&theme=github" alt="GitHub Activity Graph" width="100%" />
 
 <br>
 <br>
