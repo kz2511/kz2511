@@ -3,27 +3,24 @@
 ##
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kz2511/">
-    <img width="30px" src="/Images/linkedin-182-675325.png"  />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/KunalZaveri6?s=08">
-    <img width="28px" src="/Images/twitter-line.png" />
-  </a>  
-  &nbsp;
-  <a href="https://www.instagram.com/kunal_251199/">
-    <img width="28px" src="/Images/Instagram-Free-Icon-rdfd.png" />
-  </a>  
-  &nbsp;
- 
+ <a href="https://www.linkedin.com/in/kz2511/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/kz2511" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/KunalZaveri6?s=08" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/kunal_251199/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
 </div>
-<br>
-<br>
+<br><br>
 
 
-
-- 🔭 I’m a Information Technology Student, with tremdous passion for Machine Learning and Software Development 
-- 🌱 I’m Pressently Learning Machine Learning 
+- 🔭 I am in the role of a junior python developer at Inexture Solution LLP, with tremdous passion for Machine Learning and Software Development 
+- 🌱 I’m Pressently Working as Backend Developer 
 - ⚡ Fun fact: Machine learning is not going to destroy Humanity
 - 💬 Ask me about anything Machine Learning, Web Devlopment and Web Scrapping;
 - 📫 Reach out me: <a href="mailto:kunalzaveri11@gmail.com">
@@ -31,9 +28,12 @@
   </a>
 
 ## Languages
-
-| Python | Java | C | 
-| :---: | :---: | :---: |
+<p align="center"> 
+ <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+ <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
+ <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+ <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 ## Libraries & Tools of Python, that I am aware with...👇
 
@@ -46,12 +46,12 @@
 | :---: |
 
 #### For Web Development & WebScraping
-| Flask | BS4|
-| :---: | :---: |
+| Flask | DRF|   Django|  BS4 |  Scrapy| Selenium
+| :---: | :---: | :---: | :---: | :---:| :---: |
 
 #### IDEs that I am aware with 
-| Pycharm | Spyder | Google Colab | Jupyter Notebook | VSCode | Kaggle
-| :---: | :---: | :---: | :---: | :---: | :---: |
+| Pycharm | Spyder | Google Colab | Jupyter Notebook | VSCode | Kaggle | Postman
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 &nbsp;
 &nbsp;
