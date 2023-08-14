@@ -1,23 +1,36 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Kunal Zaveri <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35"></h1>
+<h1 align="center">Hi there, I'm <a target="_blank" href="https://github.com/kz2511">Kunal Zaveri</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1></h1>
+<h1 align="center">I am a Backend Developer</h1>
 
-##
+# Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="38px">
 
 <div align="center">
  <a href="https://www.linkedin.com/in/kz2511/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Spyware linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/kz2511" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  
+ <a href="https://github.com/kz2511" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=Spyware007 GitHub style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/KunalZaveri6?s=08" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+  
+ <a href="https://twitter.com/KunalZaveri6?s=08" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=Spyware007 twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/kunal_251199/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<a href="mailto:kunalzaveri11@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=omgawandeofficial9834899149@gmail.com mail style="margin-bottom: 5px;" />
 </a>
-</div>
-<br><br>
 
+<a href="https://www.instagram.com/kunal_251199/" target="_blank">
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=Spyware007 Instagram style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.facebook.com/kunal.zaveri.54" target="_blank">
+<img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white alt=Charu Facebook style="margin-bottom: 5px;" />
+</a>
+
+</div>
+
+<br><br>
+# About Me <img src="./img/about.gif" height="48px">
 
 - 🔭 I am in the role of a junior python developer at Inexture Solution LLP, with tremdous passion for Machine Learning and Software Development 
 - 🌱 I’m Pressently Working as Backend Developer 
