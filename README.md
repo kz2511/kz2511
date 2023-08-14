@@ -30,17 +30,14 @@
 </div>
 
 <br><br>
-# About Me <img src="./img/about.gif" height="48px">
+# About Me <img src="https://github.com/kz2511/kz2511/blob/main/Images/about.gif" height="48px">
 
-- 🔭 I am in the role of a junior python developer at Inexture Solution LLP, with tremdous passion for Machine Learning and Software Development 
-- 🌱 I’m Pressently Working as Backend Developer 
-- ⚡ Fun fact: Machine learning is not going to destroy Humanity
-- 💬 Ask me about anything Machine Learning, Web Devlopment and Web Scrapping;
-- 📫 Reach out me: <a href="mailto:kunalzaveri11@gmail.com">
-      <img width="20px" src="Images/Gmail-Logo.wine.svg" />
-  </a>
+<img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather1.png" width="30" height="30">🔭 I am in the role of a Python developer at Inexture Solution LLP, with a tremendous passion for Machine Learning and Software Development <br>
+<img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather2.png" width="30" height="30">🌱 I’m Presently Working as Backend Developer <br>
+<img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather1.png" width="30" height="30">⚡ Fun fact: Machine learning is not going to destroy Humanity<br>
+<img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather2.png" width="30" height="30">💬 Ask me about anything Machine Learning, Web development, and Web Scrapping;<br>
 
-## Languages
+# Languages <img src="https://github.com/kz2511/kz2511/blob/main/Images/language.gif" height="44px">
 <p> 
  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
