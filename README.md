@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a target="_blank" href="https://github.com/kz2511">Kunal Zaveri</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1></h1>
-<h1 align="center">I am a Backend Developer</h1>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Passionated+Software+Developer+%3A)" /> </h3>
 
 # Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="38px">
 
