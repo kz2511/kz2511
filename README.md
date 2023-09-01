@@ -50,6 +50,7 @@
 </a>
 </p>
 
+
 # Web Tech Stack <img src="https://github.com/kz2511/kz2511/blob/main/Images/web.gif" height="38px">
 <div align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -88,6 +89,19 @@
   <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-%2364CAFF.svg?style=for-the-badge&logo=streamlit&logoColor=white">
 </a>
 </div>
+
+
+# Web Scraping Stack <img src="https://media.giphy.com/media/2yzGTewUsGil0LFCTv/giphy.gif" height="38px">
+<a href="https://docs.scrapy.org/en/latest/" target="_blank">
+  <img alt="scrapy" src="https://img.shields.io/badge/Scrapy-%23025E8C.svg?style=for-the-badge&logo=scrapy&logoColor=white">
+</a>
+<a href="https://selenium-python.readthedocs.io/index.html" target="_blank">
+  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-%234EA94B.svg?style=for-the-badge&logo=selenium&logoColor=white">
+</a>
+<a href="https://beautiful-soup-4.readthedocs.io/en/latest/" target="_blank">
+  <img alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-%234C4C4D.svg?style=for-the-badge&logo=beautifulsoup&logoColor=white">
+</a>
+
 
 # Databases <img src="https://github.com/kz2511/kz2511/blob/main/Images/database.gif" height="38px">
 <div align="left">
