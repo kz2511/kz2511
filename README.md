@@ -51,7 +51,7 @@
 </p>
 
 
-# Web Tech Stack <img src="https://github.com/kz2511/kz2511/blob/main/Images/web.gif" height="38px">
+# Web Tech Stack <img src="https://media.giphy.com/media/2yzGTewUsGil0LFCTv/giphy.gif" height="38px">
 <div align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -91,7 +91,7 @@
 </div>
 
 
-# Web Scraping Stack <img src="https://media.giphy.com/media/2yzGTewUsGil0LFCTv/giphy.gif" height="38px">
+# Web Scraping Stack <img src="https://github.com/kz2511/kz2511/blob/main/Images/web.gif" height="38px">
 <a href="https://docs.scrapy.org/en/latest/" target="_blank">
   <img alt="scrapy" src="https://img.shields.io/badge/Scrapy-%23025E8C.svg?style=for-the-badge&logo=scrapy&logoColor=white">
 </a>
